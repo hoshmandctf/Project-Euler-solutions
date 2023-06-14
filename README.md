@@ -10,10 +10,11 @@ For each problem I solved/will solve, I have provided a Python script that solve
 
 ## Solutions
 
-1. [Problem 1: Multiples of 3 and 5](./p001.py)
-2. [Problem 2: Even Fibonacci numbers](./p002.py)
-3. [Problem 3: Largest prime factor](./p003.py)
-4. [Problem 4: Largest palindrome product](./p004.py)
+1. [Problem 1: Multiples of 3 and 5](./scripts/p001.py)
+2. [Problem 2: Even Fibonacci numbers](./scripts/p002.py)
+3. [Problem 3: Largest prime factor](./scripts/p003.py)
+4. [Problem 4: Largest palindrome product](./scripts/p004.py)
+5. [Problem 5: Smallest Multiple](./scripts/p005.py)
 
 ...
 
