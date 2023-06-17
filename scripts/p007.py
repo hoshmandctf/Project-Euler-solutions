@@ -1,3 +1,8 @@
+# Copyright (c) Hoshmand. All rights reserved.
+# 
+# https://twitter.com/hoshmandctf
+# https://github.com/hoshmandctf
+
 def is_prime(n):
     if n <= 1:
         return False
