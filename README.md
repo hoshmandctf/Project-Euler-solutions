@@ -23,9 +23,8 @@ For each problem I solved/will solve, I have provided a Python script that solve
 11. [Problem 11: Largest Product in a Grid](./scripts/p011.py)
 12. [Problem 12: Highly Divisible Triangular Number](./scripts/p012.py)
 13. [Problem 13: Large Sum](./scripts/p013.py)
-301. [Problem 301: Nim](./scripts/p301.py)
 
-
+301 -  [Problem 301: Nim](./scripts/p301.py)
 
 ...
 
