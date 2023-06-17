@@ -15,6 +15,8 @@ For each problem I solved/will solve, I have provided a Python script that solve
 3. [Problem 3: Largest prime factor](./scripts/p003.py)
 4. [Problem 4: Largest palindrome product](./scripts/p004.py)
 5. [Problem 5: Smallest Multiple](./scripts/p005.py)
+6. [Problem 6: Sum Square Difference](./scripts/p006.py)
+7. [Problem 7: 10001st Prime](./scripts/p007.py)
 
 ...
 
