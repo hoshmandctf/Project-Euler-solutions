@@ -17,6 +17,15 @@ For each problem I solved/will solve, I have provided a Python script that solve
 5. [Problem 5: Smallest Multiple](./scripts/p005.py)
 6. [Problem 6: Sum Square Difference](./scripts/p006.py)
 7. [Problem 7: 10001st Prime](./scripts/p007.py)
+8. [Problem 8: Largest Product in a Series](./scripts/p008.py)
+9. [Problem 9: Special Pythagorean Triplet](./scripts/p009.py)
+10. [Problem 10: Summation of Primes](./scripts/p010.py)
+11. [Problem 11: Largest Product in a Grid](./scripts/p011.py)
+12. [Problem 12: Highly Divisible Triangular Number](./scripts/p012.py)
+13. [Problem 13: Large Sum](./scripts/p013.py)
+301. [Problem 301: Nim](./scripts/p301.py)
+
+
 
 ...
 
