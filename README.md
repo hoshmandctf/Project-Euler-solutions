@@ -23,6 +23,16 @@ For each problem I solved/will solve, I have provided a Python script that solve
 11. [Problem 11: Largest Product in a Grid](./scripts/p011.py)
 12. [Problem 12: Highly Divisible Triangular Number](./scripts/p012.py)
 13. [Problem 13: Large Sum](./scripts/p013.py)
+14. [Problem 14: Longest Collatz Sequence](./scripts/p014.py)
+15. [Problem 15: Lattice Paths](./scripts/p015.py)
+16. [Problem 16: Power Digit Sum](./scripts/p016.py)
+17. [Problem 17: Number Letter Counts](./scripts/p017.py)
+18. [Problem 18: Maximum Path Sum I](./scripts/p018.py)
+19. [Problem 19: Counting Sundays](./scripts/p019.py)
+20. [Problem 20: Factorial Digit Sum](./scripts/p020.py)
+21. [Problem 21: Amicable Numbers](./scripts/p021.py)
+22. [Problem 22: Names Scores](./scripts/p022.py)
+23. [Problem 23: Non-Abundant Sums](./scripts/p023.py)
 
 301 -  [Problem 301: Nim](./scripts/p301.py)
 
