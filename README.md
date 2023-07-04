@@ -33,6 +33,8 @@ For each problem I solved/will solve, I have provided a Python script that solve
 21. [Problem 21: Amicable Numbers](./scripts/p021.py)
 22. [Problem 22: Names Scores](./scripts/p022.py)
 23. [Problem 23: Non-Abundant Sums](./scripts/p023.py)
+24. [Problem 24: Lexicographic Permutations](./scripts/p024.py)
+25. [Problem 25: 1000-digit Fibonacci Number](./scripts/p025.py)
 
 301 -  [Problem 301: Nim](./scripts/p301.py)
 
