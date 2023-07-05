@@ -35,6 +35,11 @@ For each problem I solved/will solve, I have provided a Python script that solve
 23. [Problem 23: Non-Abundant Sums](./scripts/p023.py)
 24. [Problem 24: Lexicographic Permutations](./scripts/p024.py)
 25. [Problem 25: 1000-digit Fibonacci Number](./scripts/p025.py)
+26. [Problem 26: Reciprocal Cycles](./scripts/p026.py)
+27. [Problem 27: Quadratic Primes](./scripts/p027.py)
+28. [Problem 28: Number Spiral Diagonals](./scripts/p028.py)
+29. [Problem 29: Distinct Powers](./scripts/p029.py)
+30. [Problem 30: Digit Fifth Powers](./scripts/p030.py)
 
 301 -  [Problem 301: Nim](./scripts/p301.py)
 
