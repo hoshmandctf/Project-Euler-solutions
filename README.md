@@ -40,6 +40,11 @@ For each problem I solved/will solve, I have provided a Python script that solve
 28. [Problem 28: Number Spiral Diagonals](./scripts/p028.py)
 29. [Problem 29: Distinct Powers](./scripts/p029.py)
 30. [Problem 30: Digit Fifth Powers](./scripts/p030.py)
+31. [Problem 31: Coin Sums](./scripts/p031.py)
+32. [Problem 32: Pandigital Products](./scripts/p032.py)
+33. [Problem 33: Digit Cancelling Fractions](./scripts/p033.py)
+34. [Problem 34: Digit Factorials](./scripts/p034.py)
+35. [Problem 35: Circular Primes](./scripts/p035.py)
 
 301 -  [Problem 301: Nim](./scripts/p301.py)
 
