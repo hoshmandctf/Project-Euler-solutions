@@ -45,6 +45,11 @@ For each problem I solved/will solve, I have provided a Python script that solve
 33. [Problem 33: Digit Cancelling Fractions](./scripts/p033.py)
 34. [Problem 34: Digit Factorials](./scripts/p034.py)
 35. [Problem 35: Circular Primes](./scripts/p035.py)
+36. [Problem 36: Double-base Palindromes](./scripts/p036.py)
+37. [Problem 37: Truncatable Primes](./scripts/p037.py)
+38. [Problem 38: Pandigital Multiples](./scripts/p038.py)
+39. [Problem 39: Integer Right Triangles](./scripts/p039.py)
+40. [Problem 40: Champernowne's Constant](./scripts/p040.py)
 
 301 -  [Problem 301: Nim](./scripts/p301.py)
 
