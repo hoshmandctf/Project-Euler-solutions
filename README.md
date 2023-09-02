@@ -50,6 +50,11 @@ For each problem I solved/will solve, I have provided a Python script that solve
 38. [Problem 38: Pandigital Multiples](./scripts/p038.py)
 39. [Problem 39: Integer Right Triangles](./scripts/p039.py)
 40. [Problem 40: Champernowne's Constant](./scripts/p040.py)
+41. [Problem 41: Pandigital Prime](./scripts/p041.py)
+42. [Problem 42: Coded Triangle Numbers](./scripts/p042.py)
+43. [Problem 43: Sub-string Divisibility](./scripts/p043.py)
+44. [Problem 44: Pentagon Numbers](./scripts/p044.py)
+45. [Problem 45: Triangular, Pentagonal, and Hexagonal](./scripts/p045.py)
 
 301 -  [Problem 301: Nim](./scripts/p301.py)
 
